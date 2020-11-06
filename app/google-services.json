@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "76218995479",
+    "firebase_url": "https://group3-language-translater.firebaseio.com",
+    "project_id": "group3-language-translater",
+    "storage_bucket": "group3-language-translater.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76218995479:android:51a8293d08031faf05dd52",
+        "android_client_info": {
+          "package_name": "com.simon.group3languagetranslator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76218995479-ngotfdnqmhqh3p02qrdn7ct0a0gj8of0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqx7eYEKewqs682DXtnHkZIx0Dq7s3C9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76218995479-ngotfdnqmhqh3p02qrdn7ct0a0gj8of0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
